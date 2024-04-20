@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615430493621",
+    "project_id": "cuhp-1",
+    "storage_bucket": "cuhp-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615430493621:android:daae2f50e7322c8f46b5fc",
+        "android_client_info": {
+          "package_name": "com.cuhp.shahpur"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwZ34VZ09Q3HMA8itcxR7IPYr-2jhYmek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
